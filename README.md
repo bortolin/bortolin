@@ -1,4 +1,10 @@
-## Hi there 👋
+## About Me 👋
+
+Welcome to my profile! My name is Marco, and I am the CTO at Hunext Software, where I also lead the Research and Development department. My career is centered around software development, with extensive expertise in .NET, DevOps and MAUI. I have an unbounded passion for the software and technology world, always seeking new challenges and innovations.
+
+In addition to my work, I am deeply passionate about photography, which allows me to express my creativity and capture unique moments. Another key aspect of my professional life is training: I love sharing my knowledge and skills through teaching, helping others grow and develop in the tech field.
+
+I am excited to share experiences, learn from other professionals, and connect with people who share my passion for technology. I look forward to meeting you on Sessionize to explore new opportunities for growth and learning together!
 
 <!--
 **bortolin/bortolin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
